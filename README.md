@@ -59,9 +59,9 @@
 
 ## 📌 About Me
 
-- 🔹 Passionate about **UI/UX** and delivering intuitive user experiences.  
-- 🔹 Experienced in **responsive web design** and cross-browser compatibility.  
-- 🔹 Focused on **clean code**, performance optimization, and teamwork.  
+ 🔹 Passionate about **UI/UX** and delivering intuitive user experiences.  
+ 🔹 Experienced in **responsive web design** and cross-browser compatibility.  
+ 🔹 Focused on **clean code**, performance optimization, and teamwork.  
 
 ---
 
